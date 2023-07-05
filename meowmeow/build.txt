@@ -1,4 +1,4 @@
 displayName = asspocalypse
-author = h
+author = habibi
 version = 0.1
 hideCode = false
